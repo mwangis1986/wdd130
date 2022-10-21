@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@300&display=swap');
+
+:root {
+    --primary-color: #3b0d11   ;
+    --secondary-color: #00a878 ;
+    --accent1-color: #d8f1a0;
+    --accent2-color: white;
+  
+    --heading-font: "Pacifico";
+    --paragraph-font: Roboto, Helvetica, sans-serif;
+  
+    --headline-color-on-white: #00a878;
+    --headline-color-on-color: #d8f1a0; 
+    --paragraph-color-on-white: #00a878; 
+    --paragraph-color-on-color: #3b0d11; 
+    --paragraph-background-color: #3b0d11  ;
+    --nav-link-color: #3b0d11;
+    --nav-background-color: #00a878;
+    --nav-hover-link-color: white;
+    --nav-hover-background-color: #3b0d11;
+p{
+    color:blue
+}
+
+.p-color {
+    color:#00a878;
+}
